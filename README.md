@@ -81,7 +81,7 @@
 </p>
 
 <!-- TOOLS & TECHNOLOGIES -->
-<h3 align="center">🛠️ Tools & Technologies 🛠️</h3>
+<h3 align="center">🛠 Tools & Technologies 🛠</h3>
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=linux,git,docker,mysql,aws,vim,nginx,vscode&perline=8" /></a>
 </p>
@@ -140,7 +140,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=cyberajju&theme=chartreus
 <h1 align="center">🔗 Connect With Me</h1>
 
 <p align="center">
-  <a href="https://twitter.com/Ajjukumar3856"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/Ajju-meena"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/theonly_ajju"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.youtube.com/@cybertechajju"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -166,9 +166,4 @@ https://github-readme-streak-stats.herokuapp.com/?user=cyberajju&theme=chartreus
 <!-- GLITCH EFFECT FOOTER WITH QUOTE -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=100&lines=KEEP+LEARNING%2C+KEEP+HACKING;THE+QUIETER+YOU+BECOME%2C+THE+MORE+YOU+ARE+ABLE+TO+HEAR;HACK+THE+PLANET;IT'S+NOT+A+BUG%2C+IT'S+A+FEATURE!" alt="Typing SVG" /></a>
-</p>
-
-<!-- GLITCH EFFECT ANIMATED FOOTER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
