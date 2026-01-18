@@ -1,15 +1,12 @@
-<!-- MATRIX GLITCH HEADER -->
+<!-- GLITCH HACKER HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:00FF00&text=CYBERTECHAJJU&fontColor=00FF00&fontSize=50&fontAlign=50&fontAlignY=35&animation=twinkling&stroke=00FF00" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=40&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E2%96%88%E2%96%88%E2%96%88+CYBERTECHAJJU+%E2%96%88%E2%96%88%E2%96%88;%3C%2F%3E+CYBERTECHAJJU+%3C%2F%3E;%24+CYBERTECHAJJU+%24;%5BHACKER+MODE+ACTIVATED%5D" alt="Glitch Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=70&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=CYBERTECHAJJU" alt="Name" />
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%24+whoami;Penetration+Tester+%7C+Bug+Hunter+%7C+CTF+Player;%24+./exploit.sh;Access+Granted+%E2%9C%93" alt="Typing SVG" />
 </div>
+
 
 <!-- PROFILE STATS BADGES -->
 <p align="center"> 
